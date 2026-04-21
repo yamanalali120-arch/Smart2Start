@@ -3,7 +3,7 @@ import { redirect } from "next/navigation";
 import { PageHeader } from "@/components/shared/page-header";
 import { ContentManager } from "@/components/admin/content-manager";
 
-export const metadata = { title: "Inhalte – Admin – brillen.de Academy" };
+export const metadata = { title: "Inhalte – Admin – Brillen Optiker Academy" };
 
 export default async function AdminContentPage() {
   const supabase = await createClient();

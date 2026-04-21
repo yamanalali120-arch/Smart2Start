@@ -8,7 +8,7 @@ import { formatDate } from "@/lib/utils";
 import { Zap, Trophy, Calendar, Target, BookOpen, HelpCircle, Flame } from "lucide-react";
 import { ProfileGoalSelector } from "@/components/profile/profile-goal-selector";
 
-export const metadata = { title: "Profil – brillen.de Academy" };
+export const metadata = { title: "Profil – Brillen Optiker Academy" };
 
 export default async function ProfilePage() {
   const supabase = await createClient();

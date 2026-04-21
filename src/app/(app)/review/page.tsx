@@ -5,7 +5,7 @@ import { ReviewQueue } from "@/components/review/review-queue";
 import { EmptyState } from "@/components/shared/empty-state";
 import { RefreshCw } from "lucide-react";
 
-export const metadata = { title: "Wiederholen – brillen.de Academy" };
+export const metadata = { title: "Wiederholen – Brillen Optiker Academy" };
 
 export default async function ReviewPage() {
   const supabase = await createClient();

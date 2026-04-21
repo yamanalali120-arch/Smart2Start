@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Users, BookOpen, HelpCircle, TrendingUp } from "lucide-react";
 import Link from "next/link";
 
-export const metadata = { title: "Admin – brillen.de Academy" };
+export const metadata = { title: "Admin – Brillen Optiker Academy" };
 
 export default async function AdminPage() {
   const supabase = await createClient();

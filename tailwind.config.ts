@@ -18,7 +18,7 @@ const config: Config = {
     },
     extend: {
       colors: {
-        // brillen.de brand colors
+        // Brillen Optiker Academy brand colors
         brand: {
           green: {
             50: "#f0fdf4",

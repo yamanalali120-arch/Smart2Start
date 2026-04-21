@@ -1,6 +1,6 @@
-# brillen.de Academy – Lernplattform
+# Brillen Optiker Academy – Lernplattform
 
-Interne Lernplattform für brillen.de Mitarbeiter zum Auswendiglernen des Optik-Handbuchs.
+Interne Lernplattform für Brillen Optiker Academy Mitarbeiter zum Auswendiglernen des Optik-Handbuchs.
 
 ## Tech Stack
 

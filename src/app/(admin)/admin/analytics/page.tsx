@@ -2,7 +2,7 @@ import { getTeamAnalytics } from "@/actions/admin";
 import { PageHeader } from "@/components/shared/page-header";
 import { AnalyticsDashboard } from "@/components/admin/analytics-dashboard";
 
-export const metadata = { title: "Analysen – Admin – brillen.de Academy" };
+export const metadata = { title: "Analysen – Admin – Brillen Optiker Academy" };
 
 export default async function AdminAnalyticsPage() {
   const { data, error } = await getTeamAnalytics();

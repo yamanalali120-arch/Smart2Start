@@ -4,7 +4,7 @@ import { PageHeader } from "@/components/shared/page-header";
 import { UserTable } from "@/components/admin/user-table";
 import { CreateUserDialog } from "@/components/admin/create-user-dialog";
 
-export const metadata = { title: "Benutzer – Admin – brillen.de Academy" };
+export const metadata = { title: "Benutzer – Admin – Brillen Optiker Academy" };
 
 export default async function AdminUsersPage() {
   const supabase = await createClient();

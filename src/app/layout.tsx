@@ -12,9 +12,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "brillen.de Academy",
+  title: "Brillen Optiker Academy",
   description:
-    "Lernplattform für brillen.de Mitarbeiter – Werde zum Optik-Experten!",
+    "Lernplattform für Brillen Optiker Academy Mitarbeiter – Werde zum Optik-Experten!",
   icons: {
     icon: "/icons/logo.svg",
   },

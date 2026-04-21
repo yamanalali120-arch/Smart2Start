@@ -8,7 +8,7 @@ import { StrongTopicsCard } from "@/components/dashboard/strong-topics-card";
 import { WeakTopicsCard } from "@/components/dashboard/weak-topics-card";
 import { DailyGoalCard } from "@/components/dashboard/daily-goal-card";
 
-export const metadata = { title: "Dashboard – brillen.de Academy" };
+export const metadata = { title: "Dashboard – Brillen Optiker Academy" };
 
 export default async function DashboardPage() {
   const supabase = await createClient();

@@ -29,7 +29,7 @@ export default function AuthLayout({
           </svg>
         </div>
         <h1 className="text-2xl font-bold text-foreground">
-          brillen.de <span className="text-brand-green-500">Academy</span>
+          Brillen Optiker Academy <span className="text-brand-green-500">Academy</span>
         </h1>
         <p className="text-sm text-muted-foreground">
           Dein Weg zum Optik-Experten
@@ -43,7 +43,7 @@ export default function AuthLayout({
 
       {/* Footer */}
       <p className="mt-8 text-xs text-muted-foreground">
-        © {new Date().getFullYear()} brillen.de – Internes Lernportal
+        © {new Date().getFullYear()} Brillen Optiker Academy – Internes Lernportal
       </p>
     </div>
   );

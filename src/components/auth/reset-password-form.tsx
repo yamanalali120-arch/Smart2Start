@@ -85,7 +85,7 @@ export function ResetPasswordForm() {
             <Input
               id="email"
               type="email"
-              placeholder="vorname.nachname@brillen.de"
+              placeholder="vorname.nachname@Brillen-Optiker-Academy.de"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               disabled={isLoading}

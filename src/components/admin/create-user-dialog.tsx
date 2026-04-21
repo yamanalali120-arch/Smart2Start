@@ -146,7 +146,7 @@ export function CreateUserDialog() {
             <Input
               id="email"
               type="email"
-              placeholder="max.mustermann@brillen.de"
+              placeholder="max.mustermann@Brillen-Optiker-Academy.de"
               value={form.email}
               onChange={(e) =>
                 setForm((prev) => ({ ...prev, email: e.target.value }))

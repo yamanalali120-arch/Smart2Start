@@ -75,7 +75,7 @@ export function AppHeader({ profile }: AppHeaderProps) {
               <GraduationCap size={20} />
             </div>
             <div>
-              <p className="text-sm font-bold leading-none">brillen.de</p>
+              <p className="text-sm font-bold leading-none">Brillen-Optiker-Academy.de</p>
               <p className="text-xs text-brand-green-500 font-medium">Academy</p>
             </div>
           </div>

@@ -3,7 +3,7 @@ import { ChapterRoadmap } from "@/components/learn/chapter-roadmap";
 import { PageHeader } from "@/components/shared/page-header";
 import { redirect } from "next/navigation";
 
-export const metadata = { title: "Lernen – brillen.de Academy" };
+export const metadata = { title: "Lernen – Brillen Optiker Academy" };
 
 export default async function LearnPage() {
   const { data: chapters, error } = await getChaptersWithProgress();
